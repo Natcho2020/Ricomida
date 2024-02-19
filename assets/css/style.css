@@ -1,0 +1,54 @@
+/* Estilo de brand en Navbar y Footer */
+a,
+.font-ricomida {
+    text-decoration: none;
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+}
+
+/*Parametros Generales Containers*/
+
+.container {
+    width: 75%;
+    margin: 0 auto;
+
+}
+
+.text_section1,
+.img_section1 {
+    display: inline-block;
+
+}
+
+/* Parametros del Texto*/
+.text_section1 {
+    width: 100%;
+    font-size: smaller;
+    color: #373a3c;
+}
+
+/* Parametros de la imagen header*/
+
+.img_section1 {
+    width: 90%;
+
+}
+
+/* Ajustes de botones*/
+
+.botones {
+    padding-top: 10%;
+
+}
+
+/* Parametros del footer*/
+
+footer {
+    background-color: #373a3c;
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+}
